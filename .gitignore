@@ -3,4 +3,3 @@ lib
 *.sublime*
 build
 npm-debug.log
-/index.js
