@@ -26,7 +26,6 @@
     "jss-px": "^1.0.0",
     "jss-vendor-prefixer": "^1.0.0",
     "keycode": "^2.1.0",
-    "lodash": "^3.9.3",
     "react-center-component": "^2.0.1",
     "react-jss": "^2.0.1"
   },
